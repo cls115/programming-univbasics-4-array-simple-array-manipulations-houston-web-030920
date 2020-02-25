@@ -20,3 +20,6 @@ end
 
 def using_insert(array, element)
   array.insert(newelement.4)
+end
+
+
