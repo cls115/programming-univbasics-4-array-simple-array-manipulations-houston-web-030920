@@ -22,4 +22,6 @@ def using_insert(array, element)
   array.insert(4,newelement)
 end
 
+def using_flatten(array )
+
 
